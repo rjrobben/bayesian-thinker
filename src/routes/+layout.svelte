@@ -1,10 +1,14 @@
+<script>
+    import { base } from '$app/paths';
+</script>
+
 <nav>
-	<a href="/">Home</a>
-	<a href="/calculator">Calculator</a>
+	<a href="{base}/">Home</a>
+	<a href="{base}/calculator">Calculator</a>
     <!-- <a href="/individual_events">Individual Events</a> -->
-    <a href="/combined_events">Combined Events</a>
+    <a href="{base}/combined_events">Combined Events</a>
     <!-- <a href="/events_after">After Events</a> -->
-	<a href="/settings">Settings</a>
+	<a href="{base}/settings">Settings</a>
 </nav>
 
 <slot></slot>
