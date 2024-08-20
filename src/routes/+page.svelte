@@ -1,6 +1,6 @@
-<h1>Welcome to Bayseian Calculator</h1>
+<h1>Welcome to Bayesian Calculator</h1>
 <p>The world is not just black and white. A lot of the events we face are actually so complex that human brains are unable to comprehend with certainty.
-    The Bayseian school of thoughts exist to help dealing with such uncertainty.
+    The Bayesian school of thoughts exist to help dealing with such uncertainty.
     Humans are prone to confirmation bias and tend to believe with 100% certainty in something that is uncertain in nature.
     A more scientific and reasonable way of thinking is to plausibly guess the probability of different events and assess the situation with the Bayesian formula.
     Record some of your beliefs or hypotheses in daily life and update them with evidence!
